@@ -24,3 +24,7 @@ My next steps are a bit more complicated. First, I need to figure out how to get
 What is challenging about my peice is that I cannot figure out how to get this cigarette to shape into a Nike swoosh. I have a good vision for my final product, but executing it is where I get tripped up. I hope I can hone in my skills and make a visually appealing final product that lives up to my expectations. I am excited because I think it will be a clean final product considering how simple my idea is, but I also think there is a lot to say about simplicity and how appealing it can be.
 
 A visual argument works well when it makes sense as a whole piece. For instance, it may have good symmetry or cohesive coloring. Something to avoid is making a piece too "busy," meaning too many things going on whether those things are fonts, colors, shapes, words, TEXTURES, etc. 
+
+**UPDATE DURING CLASS 2/16**
+
+I SWITCHED TO PHOTOSHOP AND MY PROJECT IS WORKING OUT I FIGURED OUT THE FEATURES AND ALSO CAME UP WITH AN IDEA TO MAKE IT LOOK EVEN BETTER YAY
