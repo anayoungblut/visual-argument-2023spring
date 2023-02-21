@@ -28,3 +28,12 @@ A visual argument works well when it makes sense as a whole piece. For instance,
 **UPDATE DURING CLASS 2/16**
 
 I SWITCHED TO PHOTOSHOP AND MY PROJECT IS WORKING OUT I FIGURED OUT THE FEATURES AND ALSO CAME UP WITH AN IDEA TO MAKE IT LOOK EVEN BETTER YAY
+
+**Update 2/21**
+
+I am happy with how my visual argument is turning out. I think it is very clean and easy to look at. It is also east to understand the message. I hope that people understand it is meant to mimic the Nike “Just Do It” campaigns. Two of my biggest worries are that it violates copyright laws with Nike since it uses the same format and similar fonts as well as that it is too simple, almost to the point where it doesn’t meet baseline criteria. I have over three layers between the background, cigarette, smoke, “DON’T DO IT” text, and statistic text (five layers total), but I worry that they do not seem developed enough to be interesting.
+
+In terms of aspirational criteria, I used the warp and distort tools on the smoke to shape it into the iconic Nike Swoosh. I think I should increase the opacity or brightness of the smoke so it stands out against the background more. I also want to make the cigarette blend in with the smoke more; right now, I feel that it seems like it was just dropped in the middle of my page and does not blend in seamlessly. Going forward, those will be the two things I choose to focus on. I do want to make sure I achieve a grade higher than the baseline B grade, so I might need to get creative with adding elements and using new tools. The only issue is, I am not sure what to add that will fit in with the piece instead of just adding stuff for the purpose of adding it. I also want to stick with the Nike campaign theme, so adding anything will be difficult since the theme is so simple.
+
+Something I am happy with is my decision to switch to Photoshop. It has been much easier to use thus far, and tutorials are easier to come by. I also like how all the transformation tools are under one header, so they are easy to find. 
+
