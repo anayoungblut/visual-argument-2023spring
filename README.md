@@ -37,3 +37,7 @@ In terms of aspirational criteria, I used the warp and distort tools on the smok
 
 Something I am happy with is my decision to switch to Photoshop. It has been much easier to use thus far, and tutorials are easier to come by. I also like how all the transformation tools are under one header, so they are easy to find. 
 
+**UPDATE 2/26**
+
+My project is titled “Don’t Do It” and is an anti-smoking campaign. It is a play on Nike’s iconic “Just Do It” campaigns. I wanted to mimic something very recognizable for this project without replicating it exactly. The simplicity of these campaigns is what inspired my design and I think it translated well to the final result. The straightforwardness of the design draws the viewer’s attention directly to the message, which is to not smoke. I am also very content with how the cigarette and smoke formed into a shape implying the Nike logo, a move that I feel points the viewer exactly in the direction of a Nike campaign. A link to the CDC website is at the bottom of my piece; it gives statistics on smoking and some tips on how to quit. I wanted the bottom section to be more subtle, so I made it a transparent overlay of used cigarettes with some black text on top. This was intentional so I did not draw the viewer’s attention away from the overarching message but was still legible. Overall, I am quite content with the finished product. 
+
